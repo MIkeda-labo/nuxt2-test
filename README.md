@@ -1,6 +1,7 @@
 # nuxt2
 
 > My outstanding Nuxt.js project
+> docker未使用
 
 ## Build Setup
 
